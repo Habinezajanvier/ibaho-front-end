@@ -1,5 +1,5 @@
 .signup_error,
-.login_error {
+.error {
   height: 50px;
 }
 .lds-spinner {
